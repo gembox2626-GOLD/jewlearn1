@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="علامة مرسم الصائغ">
+  <rect width="128" height="128" rx="34" fill="#123b32"/>
+  <path d="M64 18 101 49 64 109 27 49Z" fill="#d6b66d"/>
+  <path d="M64 18 64 109 27 49Z" fill="#f5e8c9"/>
+  <path d="m27 49 37 10 37-10M64 18v41" fill="none" stroke="#123b32" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="98" cy="94" r="8" fill="#64a58b"/>
+</svg>
