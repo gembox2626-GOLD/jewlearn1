@@ -1,0 +1,22 @@
+{
+  "name": "jewlearn",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000 --strictPort",
+    "build": "tsc -b && vite build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dompurify": "3.2.7",
+    "marked": "15.0.12",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/three": "0.180.0",
+    "typescript": "5.9.3",
+    "vite": "7.2.0"
+  }
+}
